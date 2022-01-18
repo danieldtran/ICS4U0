@@ -1,0 +1,10 @@
+C:\Users\danie\Desktop\VB Projects\Fraction Calculator - DT\Fraction Calculator - DT\bin\Debug\Fraction Calculator - DT.exe.config
+C:\Users\danie\Desktop\VB Projects\Fraction Calculator - DT\Fraction Calculator - DT\bin\Debug\Fraction Calculator - DT.exe
+C:\Users\danie\Desktop\VB Projects\Fraction Calculator - DT\Fraction Calculator - DT\bin\Debug\Fraction Calculator - DT.pdb
+C:\Users\danie\Desktop\VB Projects\Fraction Calculator - DT\Fraction Calculator - DT\obj\Debug\Fraction Calculator - DT.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\VB Projects\Fraction Calculator - DT\Fraction Calculator - DT\obj\Debug\Fraction_Calculator___DT.Properties.Resources.resources
+C:\Users\danie\Desktop\VB Projects\Fraction Calculator - DT\Fraction Calculator - DT\obj\Debug\Fraction Calculator - DT.csproj.GenerateResource.cache
+C:\Users\danie\Desktop\VB Projects\Fraction Calculator - DT\Fraction Calculator - DT\obj\Debug\Fraction Calculator - DT.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\VB Projects\Fraction Calculator - DT\Fraction Calculator - DT\obj\Debug\Fraction Calculator - DT.exe
+C:\Users\danie\Desktop\VB Projects\Fraction Calculator - DT\Fraction Calculator - DT\obj\Debug\Fraction Calculator - DT.pdb
+C:\Users\danie\Desktop\VB Projects\Fraction Calculator - DT\Fraction Calculator - DT\obj\Debug\Fraction_Calculator___DT.formFractionCalculator.resources

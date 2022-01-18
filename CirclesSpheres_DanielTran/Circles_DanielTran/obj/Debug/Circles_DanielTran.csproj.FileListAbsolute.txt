@@ -1,0 +1,10 @@
+C:\Users\danie\Desktop\VB Projects\Circles_DanielTran\Circles_DanielTran\bin\Debug\Circles_DanielTran.exe.config
+C:\Users\danie\Desktop\VB Projects\Circles_DanielTran\Circles_DanielTran\bin\Debug\Circles_DanielTran.exe
+C:\Users\danie\Desktop\VB Projects\Circles_DanielTran\Circles_DanielTran\bin\Debug\Circles_DanielTran.pdb
+C:\Users\danie\Desktop\VB Projects\Circles_DanielTran\Circles_DanielTran\obj\Debug\Circles_DanielTran.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\VB Projects\Circles_DanielTran\Circles_DanielTran\obj\Debug\Circles_DanielTran.Properties.Resources.resources
+C:\Users\danie\Desktop\VB Projects\Circles_DanielTran\Circles_DanielTran\obj\Debug\Circles_DanielTran.csproj.GenerateResource.cache
+C:\Users\danie\Desktop\VB Projects\Circles_DanielTran\Circles_DanielTran\obj\Debug\Circles_DanielTran.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\VB Projects\Circles_DanielTran\Circles_DanielTran\obj\Debug\Circles_DanielTran.exe
+C:\Users\danie\Desktop\VB Projects\Circles_DanielTran\Circles_DanielTran\obj\Debug\Circles_DanielTran.pdb
+C:\Users\danie\Desktop\VB Projects\Circles_DanielTran\Circles_DanielTran\obj\Debug\Circles_DanielTran.formCirclesSpheres.resources

@@ -1,0 +1,10 @@
+C:\Users\danie\Desktop\VB Projects\Image_Processing_DanielTran\Image_Processing_DanielTran\bin\Debug\Image_Processing_DanielTran.exe.config
+C:\Users\danie\Desktop\VB Projects\Image_Processing_DanielTran\Image_Processing_DanielTran\bin\Debug\Image_Processing_DanielTran.exe
+C:\Users\danie\Desktop\VB Projects\Image_Processing_DanielTran\Image_Processing_DanielTran\bin\Debug\Image_Processing_DanielTran.pdb
+C:\Users\danie\Desktop\VB Projects\Image_Processing_DanielTran\Image_Processing_DanielTran\obj\Debug\Image_Processing_DanielTran.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\VB Projects\Image_Processing_DanielTran\Image_Processing_DanielTran\obj\Debug\Image_Processing_DanielTran.Properties.Resources.resources
+C:\Users\danie\Desktop\VB Projects\Image_Processing_DanielTran\Image_Processing_DanielTran\obj\Debug\Image_Processing_DanielTran.csproj.GenerateResource.cache
+C:\Users\danie\Desktop\VB Projects\Image_Processing_DanielTran\Image_Processing_DanielTran\obj\Debug\Image_Processing_DanielTran.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\VB Projects\Image_Processing_DanielTran\Image_Processing_DanielTran\obj\Debug\Image_Processing_DanielTran.exe
+C:\Users\danie\Desktop\VB Projects\Image_Processing_DanielTran\Image_Processing_DanielTran\obj\Debug\Image_Processing_DanielTran.pdb
+C:\Users\danie\Desktop\VB Projects\Image_Processing_DanielTran\Image_Processing_DanielTran\obj\Debug\Image_Processing_DanielTran.formImageProcess.resources
